@@ -1,0 +1,15 @@
+C:\Users\LENOVO T5\Documents\SistemaCitasMedicas\bin\Debug\net8.0\SistemaCitasMedicas.exe
+C:\Users\LENOVO T5\Documents\SistemaCitasMedicas\bin\Debug\net8.0\SistemaCitasMedicas.deps.json
+C:\Users\LENOVO T5\Documents\SistemaCitasMedicas\bin\Debug\net8.0\SistemaCitasMedicas.runtimeconfig.json
+C:\Users\LENOVO T5\Documents\SistemaCitasMedicas\bin\Debug\net8.0\SistemaCitasMedicas.dll
+C:\Users\LENOVO T5\Documents\SistemaCitasMedicas\bin\Debug\net8.0\SistemaCitasMedicas.pdb
+C:\Users\LENOVO T5\Documents\SistemaCitasMedicas\obj\Debug\net8.0\SistemaCitasMedicas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO T5\Documents\SistemaCitasMedicas\obj\Debug\net8.0\SistemaCitasMedicas.AssemblyInfoInputs.cache
+C:\Users\LENOVO T5\Documents\SistemaCitasMedicas\obj\Debug\net8.0\SistemaCitasMedicas.AssemblyInfo.cs
+C:\Users\LENOVO T5\Documents\SistemaCitasMedicas\obj\Debug\net8.0\SistemaCitasMedicas.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO T5\Documents\SistemaCitasMedicas\obj\Debug\net8.0\SistemaCitasMedicas.sourcelink.json
+C:\Users\LENOVO T5\Documents\SistemaCitasMedicas\obj\Debug\net8.0\SistemaCitasMedicas.dll
+C:\Users\LENOVO T5\Documents\SistemaCitasMedicas\obj\Debug\net8.0\refint\SistemaCitasMedicas.dll
+C:\Users\LENOVO T5\Documents\SistemaCitasMedicas\obj\Debug\net8.0\SistemaCitasMedicas.pdb
+C:\Users\LENOVO T5\Documents\SistemaCitasMedicas\obj\Debug\net8.0\SistemaCitasMedicas.genruntimeconfig.cache
+C:\Users\LENOVO T5\Documents\SistemaCitasMedicas\obj\Debug\net8.0\ref\SistemaCitasMedicas.dll
